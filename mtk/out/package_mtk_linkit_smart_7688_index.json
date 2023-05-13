@@ -178,9 +178,7 @@
                         }
                     ],
                     "category": "Contributed",
-                    "checksum": "SHA-256:c31f5ec0ea0961b7f001931aeec09a032290a7f40d720e67239071b400f6a35e",
                     "name": "LinkIt Smart 7688 Duo",
-                    "size": "73730",
                     "toolsDependencies": [
                         {
                             "name": "avr-gcc",
