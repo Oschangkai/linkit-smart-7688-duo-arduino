@@ -178,7 +178,9 @@
                         }
                     ],
                     "category": "Contributed",
+                    "checksum": "SHA-256:c31f5ec0ea0961b7f001931aeec09a032290a7f40d720e67239071b400f6a35e",
                     "name": "LinkIt Smart 7688 Duo",
+                    "size": "73730",
                     "toolsDependencies": [
                         {
                             "name": "avr-gcc",
@@ -191,7 +193,7 @@
                             "version": "6.0.1-arduino5"
                         }
                     ],
-                    "url": "https://github.com/madalozzo/linkit-smart-7688-duo-arduino/tree/master/mtk/out/package_mtk_linkit_smart_7688_index.json",
+                    "url": "https://madalozzo.it/mediatek_linkit_smart_7688_0.1.8.zip",
                     "version": "0.1.9"
                 }
             ],
